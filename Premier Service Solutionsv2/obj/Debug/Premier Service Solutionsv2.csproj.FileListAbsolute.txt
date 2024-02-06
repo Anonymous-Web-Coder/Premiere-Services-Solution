@@ -1,0 +1,169 @@
+C:\Users\AlieN\Desktop\PRG381 CODE in C#\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Premier Service Solutionsv2.exe.config
+C:\Users\AlieN\Desktop\PRG381 CODE in C#\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Premier Service Solutionsv2.exe
+C:\Users\AlieN\Desktop\PRG381 CODE in C#\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Premier Service Solutionsv2.pdb
+C:\Users\AlieN\Desktop\PRG381 CODE in C#\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.AssemblyReference.cache
+C:\Users\AlieN\Desktop\PRG381 CODE in C#\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.SuggestedBindingRedirects.cache
+C:\Users\AlieN\Desktop\PRG381 CODE in C#\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.FormMainMenu.resources
+C:\Users\AlieN\Desktop\PRG381 CODE in C#\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Properties.Resources.resources
+C:\Users\AlieN\Desktop\PRG381 CODE in C#\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.GenerateResource.cache
+C:\Users\AlieN\Desktop\PRG381 CODE in C#\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.CoreCompileInputs.cache
+C:\Users\AlieN\Desktop\PRG381 CODE in C#\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.exe
+C:\Users\AlieN\Desktop\PRG381 CODE in C#\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.pdb
+C:\Users\AlieN\Desktop\PRG381 CODE in C#\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormProduct.resources
+C:\Users\AlieN\Desktop\PRG381 CODE in C#\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormOut.resources
+C:\Users\AlieN\Desktop\PRG381 CODE in C#\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormServiceD.resources
+C:\Users\AlieN\Desktop\PRG381 CODE in C#\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormReport.resources
+C:\Users\AlieN\Desktop\PRG381 CODE in C#\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormPerform.resources
+C:\Users\AlieN\Desktop\PRG381 CODE in C#\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormHome.resources
+C:\Users\AlieN\Desktop\PRG381 CODE in C#\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormLogIn.resources
+C:\Users\AlieN\Desktop\PRG381 CODE in C#\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormClient.resources
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.AssemblyReference.cache
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.SuggestedBindingRedirects.cache
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.exe
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.pdb
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.AssemblyReference.cache
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.SuggestedBindingRedirects.cache
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.exe
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.pdb
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Premier Service Solutionsv2.exe.config
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Premier Service Solutionsv2.exe
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Premier Service Solutionsv2.pdb
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.FormMainMenu.resources
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormClient.resources
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormHome.resources
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormLogIn.resources
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormOut.resources
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormPerform.resources
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormProduct.resources
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormReport.resources
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormServiceD.resources
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Properties.Resources.resources
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.GenerateResource.cache
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.CoreCompileInputs.cache
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Auth.dll
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Core.dll
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.dll
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Newtonsoft.Json.dll
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.pdb
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.xml
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Auth.pdb
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Auth.xml
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Core.pdb
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Core.xml
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Newtonsoft.Json.xml
+C:\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.CopyComplete
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.AssemblyReference.cache
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.exe
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.pdb
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Premier Service Solutionsv2.exe.config
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Premier Service Solutionsv2.exe
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Premier Service Solutionsv2.pdb
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Auth.dll
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Core.dll
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.dll
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Gmail.v1.dll
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Newtonsoft.Json.dll
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.pdb
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.xml
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Auth.pdb
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Auth.xml
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Core.pdb
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Core.xml
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Gmail.v1.pdb
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Gmail.v1.xml
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Newtonsoft.Json.xml
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.FormMainMenu.resources
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormClient.resources
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormHome.resources
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormLogIn.resources
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormOut.resources
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormPerform.resources
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormProduct.resources
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormReport.resources
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormServiceD.resources
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Properties.Resources.resources
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.GenerateResource.cache
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.CoreCompileInputs.cache
+D:\Belgium Campus\3rd Year\SEN381\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.CopyComplete
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Premier Service Solutionsv2.exe.config
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Premier Service Solutionsv2.exe
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Premier Service Solutionsv2.pdb
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Auth.dll
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Core.dll
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.dll
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.pdb
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.xml
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Auth.xml
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Core.pdb
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Core.xml
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.FormMainMenu.resources
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormClient.resources
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormHome.resources
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormLogIn.resources
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormOut.resources
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormPerform.resources
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormProduct.resources
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormReport.resources
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormServiceD.resources
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Properties.Resources.resources
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.GenerateResource.cache
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.CoreCompileInputs.cache
+C:\Users\neonk\OneDrive\Desktop\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.CopyComplete
+C:\Users\AlieN\Desktop\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.AssemblyReference.cache
+C:\Users\AlieN\Desktop\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.SuggestedBindingRedirects.cache
+C:\Users\AlieN\Desktop\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.exe
+C:\Users\AlieN\Desktop\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.pdb
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.AssemblyReference.cache
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.SuggestedBindingRedirects.cache
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.exe
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.pdb
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Premier Service Solutionsv2.exe.config
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Premier Service Solutionsv2.exe
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Premier Service Solutionsv2.pdb
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Auth.dll
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Core.dll
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.dll
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Newtonsoft.Json.dll
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.pdb
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.xml
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Auth.pdb
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Auth.xml
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Core.pdb
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Core.xml
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\bin\Debug\Newtonsoft.Json.xml
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.FormMainMenu.resources
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormClient.resources
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormHome.resources
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormLogIn.resources
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormOut.resources
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormPerform.resources
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormProduct.resources
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormReport.resources
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Forms.FormServiceD.resources
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier_Service_Solutionsv2.Properties.Resources.resources
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.GenerateResource.cache
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.CoreCompileInputs.cache
+C:\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.CopyComplete
+C:\Users\miles\Downloads\Premier Service Solutionsv5 1\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.csproj.AssemblyReference.cache
+C:\Users\miles\Downloads\Premier Service Solutionsv5 1\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.exe
+C:\Users\miles\Downloads\Premier Service Solutionsv5 1\Premier Service Solutionsv5\Premier Service Solutionsv2\Premier Service Solutionsv2\obj\Debug\Premier Service Solutionsv2.pdb
